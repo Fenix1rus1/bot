@@ -1,0 +1,39 @@
+{
+  "clusters": [
+    {
+      "vk": {
+        "token": "00f2b61cf749ea678624f196fe2c65f3074d2611a31031e4b1b3cae1518329b67a6420ad0265c8e9fb757",
+        "group_id": "pubg.lite",
+        "keywords": [],
+        "filter": true,
+        "longpoll": false,
+        "interval": 30
+      },
+      "discord": {
+        "webhook_urls": [
+          "https://discordapp.com/api/webhooks/730807540459241472"
+        ],
+        "color": "#aabbcc",
+        "author": true,
+        "copyright": false
+      }
+    },
+    {
+      "vk": {
+        "token": "43bf71a",
+        "group_id": "club1",
+        "keywords": [],
+        "filter": true,
+        "longpoll": true,
+        "interval": 30
+      },
+      "discord": {
+        "webhook_urls": [https://discordapp.com/api/webhooks/759688000875134997/Dz635GpEwhL9HgV7tDIUOfOnJapR0YhqTOKb84vSpfJ6l9d_0jF017HsBT51i3BiOHKu],
+        "color": "#ffbbff",
+        "author": true,
+        "copyright": true
+      }
+    }
+  ],
+  "version_dont_modify_me": 1
+}
